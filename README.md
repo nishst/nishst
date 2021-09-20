@@ -18,7 +18,6 @@ Languages  :  Javascript, Python
 ```
 
 <p align="left">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" />
   <img alt="#fbedf6" src="https://via.placeholder.com/15/110b9b/000000?text=+" width="25" height="20" />
   <img alt="#c9594d" src="https://via.placeholder.com/15/f84a09/000000?text=+" width="25" height="20" />
