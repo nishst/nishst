@@ -14,7 +14,7 @@ nish@github
       CPU  :  AMD Ryzen 3 3100
 Languages  :  Javascript, Python
  Learning  :  Golang
-  Discord  :  nish#4371
+  Discord  :  nh#4371
 ```
 
 <p align="left">
